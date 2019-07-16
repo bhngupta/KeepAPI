@@ -34,9 +34,9 @@ The docs are available on [Read the Docs](https://gkeepapi.readthedocs.io/en/lat
 
 ## Todo (Open an issue if you'd like to help!)
 
-- Determine how `forceFullSync` works.
-- Reminders
-    - `reminders`
-- Figure out all possible values for `TaskAssist._suggest`
-- Figure out all possible values for `NodeImage._extraction_status`
-- Blobs (Drawings/Images/Recordings)
+-Determine how `forceFullSync` works.
+-Reminders
+    -`reminders`
+-Figure out all possible values for `TaskAssist._suggest`
+-Figure out all possible values for `NodeImage._extraction_status`
+-Blobs (Drawings/Images/Recordings)
